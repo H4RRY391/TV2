@@ -1,0 +1,55 @@
+
+############################################################################ Canais | ABERTO
+
+#EXTINF:-1 tvg-id="GLOBOSP" tvg-name="GLOBO" tvg-logo="https://imgur.com/waZJG1M.png",GLOBO
+http://dns.topplay.top:80/1722783677763/z0ygazkb/1180585
+
+#EXTINF:-1 tvg-id="SBT" tvg-name="SBT" tvg-logo="https://imgur.com/KO1v3pS.png",SBT
+https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8?ManoTV
+
+#EXTINF:-1 tvg-id="RecordTV" tvg-name="RecordTV" tvg-logo="https://imgur.com/lyQ1v9M.png",Rede Record
+https://cdn-4.nxplay.com.br/RECORD_PAULISTA_PFZ_NXPLAY_01/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="BAND" tvg-name="BAND" tvg-logo="https://imgur.com/xYGjfh8.png",Band
+https://cdn-4.nxplay.com.br/BAND_HD_PFZ_NX/tracks-v1a1/mono.m3u8?ManoTV
+
+#EXTINF:-1 tvg-id="REDETV" tvg-name="REDE TV" tvg-logo="https://imgur.com/EgKx2J1.png",REDE TV!
+http://dns.topplay.top:80/1722783677763/z0ygazkb/1180944
+
+#EXTINF:-1 tvg-id="TVCULTURA" tvg-name="Cultura" tvg-logo="https://i.imgur.com/xL9QvHp.png",TV Cultura
+https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8
+
+#EXTINF:-1 tvg-id="CNN BRASIL" tvg-name="CNN BRASIL" tvg-logo="https://imgur.com/4dfmnBs.png",CNN BRASIL
+https://video01.soultv.com.br/cnnbrasil/cnnbrasil/playlist.m3u8?ManoTV
+
+#EXTINF:-1 tvg-id="GLOBONEWS" tvg-name="GLOBO NEWS HD" tvg-logo="https://imgur.com/Wu4ykxo.png",GLOBO NEWS
+http://dns.topplay.top:80/1722783677763/z0ygazkb/1180616
+
+#EXTINF:-1 tvg-id="BANDNEWS" tvg-name="BANDNEWS" tvg-logo="https://imgur.com/jCZzNjF.png",Band News
+https://cdn-4.nxplay.com.br/BAND_NEWS_TK/index.m3u8
+
+#EXTINF:-1 tvg-id="RECORDNEWS" tvg-name="Record News HD" tvg-logo="https://images.pluto.tv/channels/6102e04e9ab1db0007a980a1/colorLogoPNG.png",Record News
+http://dns.topplay.top:80/1722783677763/z0ygazkb/1181944
+
+#EXTINF:-1 tvg-id="MULTISHOW" tvg-name="MULTISHOW" tvg-logo="https://imgur.com/a4lEiwk.png",Multishow
+https://new.embedflix.co/p2p/multishow/chunks.m3u8
+
+#EXTINF:-1 tvg-id="BIS" tvg-name="BIS HD" tvg-logo="https://imgur.com/jvvmyCv.png",BIS
+http://dns.topplay.top:80/1722783677763/z0ygazkb/1182060
+
+#EXTINF:-1 tvg-id="COMEDY CENTRAL" tvg-name="COMEDY CENTRAL HD" tvg-logo="https://imgur.com/jcgv2zs.png",COMEDY CENTRAL
+http://dns.topplay.top:80/1722783677763/z0ygazkb/1183771
+
+
+#EXTINF:-1 tvg-id="CANALBRASIL" tvg-name="Canal Brasil HD" tvg-logo="https://imgur.com/5lGDNDo.png",Canal Brasil
+http://dns.topplay.top:80/1722783677763/z0ygazkb/1181336
+
+#EXTINF:-1 tvg-id="E" tvg-logo="https://imgur.com/yGT50Kk.png",E!
+http://dns.topplay.top:80/1722783677763/z0ygazkb/1182147
+
+#EXTINF:-1 tvg-id="VIVA" tvg-logo="https://imgur.com/P2xB7uZ.png",VIVA!
+http://dns.topplay.top:80/1722783677763/z0ygazkb/1182515
+
+#EXTINF:-1 tvg-id="GNT" tvg-logo="https://imgur.com/8RDEcE9.png",GNT
+http://dns.topplay.top:80/1722783677763/z0ygazkb/1181287
+
